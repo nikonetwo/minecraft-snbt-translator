@@ -1,0 +1,7 @@
+{
+    "target_language": "ru",
+    "translation_api": "google", 
+    "batch_size": 10,
+    "request_delay": 0.3,
+    "timeout": 10
+}
