@@ -55,7 +55,7 @@ python translator.py
 
 🖥️ Способ 2: Через командную строку
 
-```bash
+bash
 # Скопируй эту команду и вставь в командную строку:
 git clone https://github.com/nikonetwo/minecraft-snbt-translator.git
 
